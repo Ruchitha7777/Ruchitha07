@@ -6,7 +6,7 @@ class Arr
 		a[0]="anitha";
 		a[1]="liki";
 		a[2]="vishala";
-		a[3]="ruchita";
+		a[3]="ruchitha";
 		a[4]="revathi";
 		a[5]="suchitra";
 		a[6]="sanjana";
